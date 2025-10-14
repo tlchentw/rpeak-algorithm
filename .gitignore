@@ -1,0 +1,36 @@
+# MATLAB
+# Compiled MEX files
+*.mex*
+
+# Simulink Code Generation
+slprj/
+sccprj/
+codegen/
+*_ert_rtw/
+
+# MATLAB Code Generation
+*.asv
+*.autosave
+
+# MATLAB preferences directory
+.matlab/
+
+# Binary MAT-files
+*.mat
+*.fig
+*.mdl
+*.slx
+*.p
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local data (keep only README)
+data/*
+!data/README.md
+
+# Processed results
+processed_data/*
+!processed_data/README.md
