@@ -39,7 +39,7 @@ This function uses the WFDB Toolbox for MATLAB
 
 ⸻
 
-License and Citation
+## License and Citation
 
 The MIT-BIH Arrhythmia Database is distributed by PhysioNet under the
 Open Data Commons Attribution License (ODC-By 1.0).
