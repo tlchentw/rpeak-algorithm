@@ -94,13 +94,13 @@ https://physionet.org/physiotools/matlab/wfdb-app-matlab/
 
 ⸻
 
-Citation and License
+## Citation and License
 
-## Dataset:
+### Dataset:
 The MIT-BIH Arrhythmia Database is provided by PhysioNet under the
 Open Data Commons Attribution License (ODC-By 1.0).
 Please cite PhysioNet if you use the dataset.
 
-## Code License:
+### Code License:
 This repository is released under the MIT License.
 You are free to use and modify the code with proper attribution.
