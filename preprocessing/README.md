@@ -31,7 +31,7 @@ This script will:
 - perform detrending and slope feature extraction,
 - and save the processed outputs into ../processed_data/.
 
-Example outputs:
+## Example outputs:
 
 ```
 processed_data/
@@ -40,14 +40,14 @@ processed_data/
  ├─ R_203.csv
  ...
  ```
-Dependencies
+## Dependencies
 - MATLAB R2020a or later
 - WFDB Toolbox for MATLAB (for reading PhysioNet data)
 https://physionet.org/physiotools/matlab/wfdb-app-matlab/
 
 ⸻
 
-Notes
+## Notes
 - The processed files for all 48 records can be reproduced by running preprocess.m.
 - Only record 203 is included in this repository as an example.
 - The WFDB Toolbox must be installed and accessible in the MATLAB path before running.
